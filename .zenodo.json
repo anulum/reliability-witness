@@ -1,0 +1,20 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for source-bound laboratory reliability observation. No soak runner, qualified rate analysis, reliability report or physical measurement is released.",
+  "keywords": [
+    "laboratory reliability",
+    "neuromorphic computing",
+    "device exposure",
+    "event accounting",
+    "reproducibility"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Reliability Witness",
+  "upload_type": "software"
+}

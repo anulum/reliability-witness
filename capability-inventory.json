@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "RELIABILITY-WITNESS",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "8c1f28426733ea9c434a5d5f55a81d3c3b8443281d22750c95e67df8fb202df5"
+  }
+}
