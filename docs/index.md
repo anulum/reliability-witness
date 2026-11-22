@@ -12,6 +12,8 @@ RELIABILITY-WITNESS — repository foundation
 
 This repository is preparing source-bound laboratory reliability observation and analysis. Its current executable surface is repository validation tooling. It has no installed reliability-analysis package, public soak runner or qualified reliability report.
 
+Reliability Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The intended workflow binds full prior workloads and observation plans to jointly committed events, coverage and conditions. Independent accounting retains gaps and uncertain classifications. Rate inference and budget decisions require qualified assumptions and numerical methods; zero observations never prove a zero underlying rate.
 
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).

@@ -12,6 +12,8 @@ RELIABILITY-WITNESS — repository foundation
 
 Reliability Witness is being built for source-bound laboratory observation of stochastic-computing and spiking designs: committed device exposure, observed event classes, voter interventions, recorded conditions and explicitly qualified rate bounds. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed reliability-analysis package, soak runner, public reliability-analysis command or qualified reliability report.
 
+Reliability Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 Reliability Witness owns laboratory observation orchestration, durable joint event and coverage records, independent accounting, statistical analysis and reports. SC-NeuroCore owns measured designs and mitigation. Loop Timing Witness and target adapters supply admitted instrumentation and timebase. Evidence Manifest Toolkit supplies shared evidence operations. Flight Recorder owns field attestation; Studio renders existing results.
