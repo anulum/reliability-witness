@@ -12,7 +12,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
 
-PROVENANCE_SHA256 = "bbe97bb7973c6049c296e9123e5ed363e82da433864b6736f4a852fdaa93e826"
+PROVENANCE_SHA256 = "bc79855be27e9f7df89516955a778bcf2c7c99930048f0aec92f23a47cff2dbc"
 ROLES = {
     "ci.yml": "correctness",
     "pre-commit.yml": "hook-parity",
